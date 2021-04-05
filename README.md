@@ -55,3 +55,7 @@ Once the server is running, navigate to http://localhost:8080 to call the app.
 
 #### Notes
 You can replace port 8080 with some other port number by setting PORT in `.env`
+
+## API Documentation
+
+https://documenter.getpostman.com/view/1252535/TzCQbmYX
